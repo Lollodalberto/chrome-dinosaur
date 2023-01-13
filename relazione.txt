@@ -1,0 +1,9 @@
+1. Mi sono registrato a GitHub;
+2. Ho installato Git sul pc;
+3. Ho fatto l'accesso al link della repository fornita dal professore;
+4. Ho fatto la fork per crearmi il mio repository;
+5. Ho fatto il comando git clone sul prompt dei comandi per creare la copia nel pc;
+6. Ho fatto una modifica ad un file;
+7. Ho fatto il comando git add;
+8. Ho fatto il comando git commit;
+9. Ho fatto il comando git push per vedere le modifiche online.
